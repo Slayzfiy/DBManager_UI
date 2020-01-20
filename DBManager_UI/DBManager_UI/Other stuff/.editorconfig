@@ -1,0 +1,19 @@
+﻿[*.cs]
+
+# IDE1006: Benennungsstile
+dotnet_diagnostic.IDE1006.severity = none
+
+# CA2211: Nicht konstante Felder dürfen nicht sichtbar sein
+dotnet_diagnostic.CA2211.severity = none
+
+# CA1707: Bezeichner dürfen keine Unterstriche enthalten
+dotnet_diagnostic.CA1707.severity = none
+
+# CA1305: IFormatProvider angeben
+dotnet_diagnostic.CA1305.severity = silent
+
+# CA1820: Anhand der Zeichenfolgenlänge auf leere Zeichenfolgen prüfen
+dotnet_diagnostic.CA1820.severity = silent
+
+# IDE0058: Der Ausdruckswert wird niemals verwendet.
+csharp_style_unused_value_expression_statement_preference = discard_variable:none

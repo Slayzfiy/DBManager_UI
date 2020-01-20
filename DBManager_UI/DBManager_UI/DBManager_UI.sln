@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBManager_UI", "DBManager_UI.csproj", "{8D569D8F-82CD-4356-9597-124119545ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Debug|x64.ActiveCfg = Debug|x64
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Debug|x64.Build.0 = Debug|x64
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Release|x64.ActiveCfg = Release|x64
+		{8D569D8F-82CD-4356-9597-124119545ACE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0AA0AD-FDAC-46C4-99D0-4872ED90AFAB}
+	EndGlobalSection
+EndGlobal
